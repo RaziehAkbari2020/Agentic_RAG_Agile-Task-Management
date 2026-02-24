@@ -13,8 +13,7 @@ system for Agile task management analysis using Taiga project data.
 ##Preprocessing
 """
 
-!pip install pandas numpy
-
+# pip install pandas numpy
 from google.colab import drive
 drive.mount('/content/drive')
 
