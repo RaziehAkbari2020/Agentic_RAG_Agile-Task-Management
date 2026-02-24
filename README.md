@@ -19,9 +19,13 @@ This repository presents the core implementation of an Agentic Retrieval-Augment
 
 ## Core Implementation
 
-See:
+👉 **Python Source Code (Recommended):**
 
-agentic_rag_agile_task_management.py
+[agentic_rag_agile_task_management.py](./agentic_rag_agile_task_management.py)
+
+👉 **Notebook Version:**
+
+[Agentic_RAG_Agile_Task_Management.ipynb](./Agentic_RAG_Agile_Task_Management.ipynb)
 ## Author
 
 Razieh Akbari
