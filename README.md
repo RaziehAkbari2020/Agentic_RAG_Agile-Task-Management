@@ -27,4 +27,3 @@ Agentic_RAG_Agile_Task_Management.ipynb
 
 Razieh Akbari
 PhD Researcher – UPC
-HIVEMIND Project
